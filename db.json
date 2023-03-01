@@ -1,0 +1,18 @@
+{
+  "qlshop": [
+    {
+      "name": "Shop thể thao update",
+      "adress": "Hn",
+      "phone": "112",
+      "status": "Đóng cửa",
+      "id": 2
+    },
+    {
+      "name": "Shop giày dép update",
+      "adress": "HCM",
+      "phone": "115",
+      "status": "Đonhs cửa",
+      "id": 3
+    }
+  ]
+}
